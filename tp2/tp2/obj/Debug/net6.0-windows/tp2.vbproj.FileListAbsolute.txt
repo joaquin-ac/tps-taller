@@ -1,0 +1,17 @@
+E:\Users\Usuario\source\repos\tp2\tp2\bin\Debug\net6.0-windows\tp2.exe
+E:\Users\Usuario\source\repos\tp2\tp2\bin\Debug\net6.0-windows\tp2.deps.json
+E:\Users\Usuario\source\repos\tp2\tp2\bin\Debug\net6.0-windows\tp2.runtimeconfig.json
+E:\Users\Usuario\source\repos\tp2\tp2\bin\Debug\net6.0-windows\tp2.dll
+E:\Users\Usuario\source\repos\tp2\tp2\bin\Debug\net6.0-windows\tp2.pdb
+E:\Users\Usuario\source\repos\tp2\tp2\obj\Debug\net6.0-windows\tp2.Form1.resources
+E:\Users\Usuario\source\repos\tp2\tp2\obj\Debug\net6.0-windows\tp2.vbproj.GenerateResource.cache
+E:\Users\Usuario\source\repos\tp2\tp2\obj\Debug\net6.0-windows\tp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Usuario\source\repos\tp2\tp2\obj\Debug\net6.0-windows\tp2.AssemblyInfoInputs.cache
+E:\Users\Usuario\source\repos\tp2\tp2\obj\Debug\net6.0-windows\tp2.AssemblyInfo.vb
+E:\Users\Usuario\source\repos\tp2\tp2\obj\Debug\net6.0-windows\tp2.vbproj.CoreCompileInputs.cache
+E:\Users\Usuario\source\repos\tp2\tp2\obj\Debug\net6.0-windows\tp2.dll
+E:\Users\Usuario\source\repos\tp2\tp2\obj\Debug\net6.0-windows\refint\tp2.dll
+E:\Users\Usuario\source\repos\tp2\tp2\obj\Debug\net6.0-windows\tp2.pdb
+E:\Users\Usuario\source\repos\tp2\tp2\obj\Debug\net6.0-windows\tp2.genruntimeconfig.cache
+E:\Users\Usuario\source\repos\tp2\tp2\obj\Debug\net6.0-windows\ref\tp2.dll
+E:\Users\Usuario\source\repos\tp2\tp2\obj\Debug\net6.0-windows\tp2.Resources.resources
