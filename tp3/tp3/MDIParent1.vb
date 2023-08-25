@@ -2,16 +2,23 @@
 
 Public Class MDIParent1
 
+
     Private Sub ShowNewForm(ByVal sender As Object, ByVal e As EventArgs) Handles NewToolStripMenuItem.Click, NewToolStripButton.Click, NewWindowToolStripMenuItem.Click
         ' Cree una nueva instancia del formulario secundario.
         Dim ChildForm As New System.Windows.Forms.Form
         ' Conviértalo en un elemento secundario de este formulario MDI antes de mostrarlo.
-        ChildForm.MdiParent = Me
 
-        m_ChildFormNumber += 1
-        ChildForm.Text = "Ventana " & m_ChildFormNumber
 
-        ChildForm.Show()
+        If MdiChildren.Count = 0 Then
+
+            ChildForm = Form1
+            ChildForm.MdiParent = Me
+            ChildForm.Show()
+
+        Else
+            MsgBox("ya existe un formulario abierto")
+        End If
+
     End Sub
 
     Private Sub OpenFile(ByVal sender As Object, ByVal e As EventArgs) Handles OpenToolStripMenuItem.Click, OpenToolStripButton.Click
@@ -38,6 +45,7 @@ Public Class MDIParent1
 
     Private Sub ExitToolsStripMenuItem_Click(ByVal sender As Object, ByVal e As EventArgs) Handles ExitToolStripMenuItem.Click
         Me.Close()
+        m_ChildFormNumber -= 1
     End Sub
 
     Private Sub CutToolStripMenuItem_Click(ByVal sender As Object, ByVal e As EventArgs) Handles CutToolStripMenuItem.Click
@@ -80,13 +88,14 @@ Public Class MDIParent1
         ' Cierre todos los formularios secundarios del principal.
         For Each ChildForm As Form In Me.MdiChildren
             ChildForm.Close()
+            m_ChildFormNumber -= 1
         Next
     End Sub
 
     Private m_ChildFormNumber As Integer
 
     Private Sub MDIParent1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Form1.Show()
         Form1.MdiParent = Me
+        Form1.Show()
     End Sub
 End Class

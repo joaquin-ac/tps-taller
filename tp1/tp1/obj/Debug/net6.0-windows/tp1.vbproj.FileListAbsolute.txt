@@ -1,0 +1,17 @@
+E:\Users\Usuario\source\repos\tp1\tp1\bin\Debug\net6.0-windows\tp1.exe
+E:\Users\Usuario\source\repos\tp1\tp1\bin\Debug\net6.0-windows\tp1.dll.config
+E:\Users\Usuario\source\repos\tp1\tp1\bin\Debug\net6.0-windows\tp1.deps.json
+E:\Users\Usuario\source\repos\tp1\tp1\bin\Debug\net6.0-windows\tp1.runtimeconfig.json
+E:\Users\Usuario\source\repos\tp1\tp1\bin\Debug\net6.0-windows\tp1.dll
+E:\Users\Usuario\source\repos\tp1\tp1\bin\Debug\net6.0-windows\tp1.pdb
+E:\Users\Usuario\source\repos\tp1\tp1\obj\Debug\net6.0-windows\tp1.Form1.resources
+E:\Users\Usuario\source\repos\tp1\tp1\obj\Debug\net6.0-windows\tp1.vbproj.GenerateResource.cache
+E:\Users\Usuario\source\repos\tp1\tp1\obj\Debug\net6.0-windows\tp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Usuario\source\repos\tp1\tp1\obj\Debug\net6.0-windows\tp1.AssemblyInfoInputs.cache
+E:\Users\Usuario\source\repos\tp1\tp1\obj\Debug\net6.0-windows\tp1.AssemblyInfo.vb
+E:\Users\Usuario\source\repos\tp1\tp1\obj\Debug\net6.0-windows\tp1.vbproj.CoreCompileInputs.cache
+E:\Users\Usuario\source\repos\tp1\tp1\obj\Debug\net6.0-windows\tp1.dll
+E:\Users\Usuario\source\repos\tp1\tp1\obj\Debug\net6.0-windows\refint\tp1.dll
+E:\Users\Usuario\source\repos\tp1\tp1\obj\Debug\net6.0-windows\tp1.pdb
+E:\Users\Usuario\source\repos\tp1\tp1\obj\Debug\net6.0-windows\tp1.genruntimeconfig.cache
+E:\Users\Usuario\source\repos\tp1\tp1\obj\Debug\net6.0-windows\ref\tp1.dll

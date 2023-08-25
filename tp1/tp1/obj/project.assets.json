@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\Usuario\\source\\repos\\tps-taller\\tp3\\tp3\\tp3.vbproj",
-      "projectName": "tp3",
-      "projectPath": "E:\\Users\\Usuario\\source\\repos\\tps-taller\\tp3\\tp3\\tp3.vbproj",
+      "projectUniqueName": "E:\\Users\\Usuario\\source\\repos\\tp1\\tp1\\tp1.vbproj",
+      "projectName": "tp1",
+      "projectPath": "E:\\Users\\Usuario\\source\\repos\\tp1\\tp1\\tp1.vbproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "E:\\Users\\Usuario\\source\\repos\\tps-taller\\tp3\\tp3\\obj\\",
+      "outputPath": "E:\\Users\\Usuario\\source\\repos\\tp1\\tp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
